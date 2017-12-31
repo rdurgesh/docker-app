@@ -19,7 +19,6 @@
 *.rar
 *.classpath
 *.project
-*.mvn/
 .settings/
 target/
 .springBeans
